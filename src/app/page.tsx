@@ -87,7 +87,7 @@ export default function Home() {
         </h1>
 
         <p className="text-center text-gray-400 text-sm">
-          พูดเช่น “เอสเอสดี”
+          พูดเช่น “CPU” หรือ “CPU AMD”
         </p>
 
         {/* Mic Button */}
